@@ -1,7 +1,7 @@
 # 0x04. Files manager #
 ## Installing dependencies ##
 
-Run *`$ npm install`* when you have the `package.json`
+Run **`$ npm install`** when you have the `package.json`
 
 
 `Back-end` `JavaScript` `ES6` `NoSQL` `MongoDB` `Redis` `NodeJS` `ExpressJS` `Kue`
